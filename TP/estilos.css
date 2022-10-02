@@ -1,0 +1,65 @@
+.header{
+    background: rgba(0,0, 0, 0.6);
+    background-image: url(./img/ba1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    background-blend-mode: darken;
+}
+
+.amarillo{
+    border: solid 2px yellow;
+    width: 60px;
+    border-radius: 5px;
+    font-weight:bold;
+    font-size: 11px;
+    background-color: yellow;
+
+}
+
+.celeste{
+    border: solid 2px skyblue;
+    width: 35px;
+    border-radius: 5px;
+    font-weight:bold;
+    font-size: 11px;
+    background-color: skyblue;
+}
+
+.palabras{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gris{
+    border: solid 2px grey;
+    width: 50;
+    border-radius: 5px;
+    font-weight:bold;
+    font-size: 11px;
+    background-color: gray;
+}
+
+.rojo{
+    border: solid 2px brown;
+    width: 50;
+    border-radius: 5px;
+    font-weight:bold;
+    font-size: 11px;
+    background-color: brown;
+}
+
+#centrado div{
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
